@@ -1,24 +1,23 @@
-This is free and unencumbered software released into the public domain.
+Introduction:
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Provide an overview of the tool, including its purpose and key features.
+"Facebook Account ID Extraction Tool is a powerful and user-friendly tool that allows you to extract and analyze Facebook account IDs based on multiple criteria. It offers a comprehensive set of extraction options, making it a valuable asset for anyone needing to access and analyze Facebook account data."
+Features:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+List the key features of the tool, including extraction from friends, location, age, gender, and interests.
+"Features:
+Extraction from Friends: Extract account IDs of a specified account's friends.
+Location-based Extraction: Target accounts based on their geographical location.
+Advanced Extraction: Search accounts based on multiple criteria such as age, gender, and interests.
+Result Filtering: Filter extracted accounts based on additional criteria.
+Save Results: Export extracted account IDs to various file formats."
+Usage:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <https://unlicense.org>
+Provide clear instructions on how to use the tool, including prerequisites, extraction options, and viewing results.
+"To use this tool, follow these steps:
+Ensure you have valid Facebook cookies.
+Run the tool and follow the on-screen instructions to select extraction criteria.
+Choose the desired extraction option, such as extraction from friends or location.
+Input specific criteria, such as age range, gender, or interests.
+Initiate the extraction process and wait for its completion.
+View the extracted results, including account IDs and additional information."
